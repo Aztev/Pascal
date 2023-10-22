@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="21" Y="38"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <Caret Line="27" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <Caret Line="40" Column="10" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <Caret Line="25" Column="26" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <Caret Line="30" Column="12" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <Caret Line="37" Column="26" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Tp8Ej12_elemDiagonalMayorASumaRecursividad.lpr"/>
+        <Caret Line="36" Column="44" TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
